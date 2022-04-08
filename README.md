@@ -1,2 +1,3 @@
-# FCC-Bjarne Stroustrup Tribute
-FreeCodeCamp Projects
+This is a Tribute Page for Bjarne Stroustrup
+
+It is my first project! Enjoy!
